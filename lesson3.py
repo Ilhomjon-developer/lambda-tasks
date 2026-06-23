@@ -92,4 +92,4 @@ print(p)
 #masala - 20
 sonlar = [45, 12, 89, 3, 67, 21]
 q = lambda sonlar: [(max(sonlar),min(sonlar))]
-print(q(sonlar))
+print(q(sonlar)) 
