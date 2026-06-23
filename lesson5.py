@@ -62,11 +62,8 @@ def count_calls(func):
     def wrapper(*args, **kwargs): 
         nonlocal count  
         count += 1
-
         print(f"Funksiya {count} marta chaqirildi")
-
         return func(*args, **kwargs)
-
     return wrapper
 
 @count_calls

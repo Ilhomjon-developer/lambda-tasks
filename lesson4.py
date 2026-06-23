@@ -163,4 +163,3 @@ print(f"Eng kichigi {kichik}")
 print(f"Ortachasi {ortacha}")
 print(f"Buyurtma soni {soni}")
 print(f"Kop pul sariflagan mijoz {vip_mijoz}")
-
